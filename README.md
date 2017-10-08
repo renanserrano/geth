@@ -21,6 +21,16 @@ Geth é um novo jeito de se comprar Ethereum. Após mais de um ano pesquisando u
 10. Na aba forms do Mailchimp for WP (dentro do wordpress), criei um formulário, e ele gerou um shortcode ```[mc4wp_form id="35"]```
 11. Criei uma página nova chamada de ```done```, colei o shortcode
 12. Volto no SendOwl, edito os produtos, inserindo a URL ```done``` que o usuário será redirecionado após a efetivação do pagamento
+13. No wordpress eu autorizei para que hajam comentários
+14. Inseri os menus do site
+15. Defini a página inicial como sendo o artigo compre-eth
+16. Nas configs gerais do WP eu removi a hora e a data para não aparecer na publicação do artigo
 
 ##### Passo a Passo back-end
-1. No wordpress eu autorizei para que hajam comentários
+1. A cada nova compra feita pelo site, eu recebo um email do paypal e do mailchimp
+2. Copio o código da transação no paypal e colo ela em Trasaction Data (da minha carteira pessoal)
+3. Vou no Mailchimp, copio o código da carteira e colo e Recipiente Address
+4. Insiro o valor da transação e dou submit
+5. Vou na [planilha](https://docs.google.com/spreadsheets/d/1y3mtlTPXJ04ePWZRdoyd5VmmhLFIoACAMr95fDGI4Dg/edit?usp=sharing) do excel e cadastro as informaçes por uma questão organizacional
+6. Quando o meu saldo em ETHs se esgota, vou na minha exchange, utilizo meu saldo em reais para comprar mais ETHs e transfiro para minha carteira
+7. Quando meu saldo em reais esta proximo do fim, vou no paypal, saco o dinheiro para a minha conta e faço um TED para a exchange que leva 24 horas.
