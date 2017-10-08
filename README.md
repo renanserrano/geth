@@ -1,6 +1,6 @@
 # geth.transparencia.me
 Geth é um novo jeito de se comprar Ethereum. Após mais de um ano pesquisando uma maneira segura e transparente e não ter encontrado, resolvi criar essa solução.
-* Vale lembrar que ela é destinada a iniciantes ou pessoas que querem manter o sigilo das transações, pois o custo da transação pelo paypal é alto e a solução acaba não sendo lucrativa para quem vende Ethereum
+* Vale lembrar que ela é destinada a iniciantes ou pessoas que querem manter o sigilo das transações, pois o custo da transação pelo paypal é alto e a solução acaba não sendo lucrativa, nem para quem compra, nem para quem vende o Ether
 * Taxas do paypal: R$0,60 por transação + 5% de taxa do cartao de debito + 2,39% por parcela caso seja feita por cartão de crédito
 
 > No momento, estou utilizando a conta do paypal da Trendt, que permite inclusive parcelar a compra e isso acarretaria num custo enorme
